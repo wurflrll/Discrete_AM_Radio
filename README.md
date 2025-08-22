@@ -4,7 +4,6 @@
 
 # Descriptions
 This project comprises two different PCBs, a Receiver and Transmitter.  The circuits rely on basic BJT amplifier designs, a 27MHz oscillator.
-###### This is a Heading h6
 
 
 ## Added Files
